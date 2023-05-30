@@ -29,19 +29,13 @@ The repository is organized as follows:
 
 To explore my Power BI portfolio, follow these steps:
 
-1. Clone this repository to your local machine using the following command:
+1. Navigate to the project folder that interests you.
 
-   ```
-   git clone https://github.com/tushar2704/PowerBI-Portfolio.git
-   ```
+2. Open the README file to get an overview of the project and its components.
 
-2. Navigate to the project folder that interests you.
+3. Open the Power BI file (.pbix) using Microsoft Power BI Desktop.
 
-3. Open the README file to get an overview of the project and its components.
-
-4. Open the Power BI file (.pbix) using Microsoft Power BI Desktop.
-
-5. Interact with the dashboard, explore the visualizations, and discover the insights derived from the data.
+4. Interact with the dashboard, explore the visualizations, and discover the insights derived from the data.
 
 ## Feedback and Contact
 
