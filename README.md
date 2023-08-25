@@ -24,26 +24,12 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ## About Me
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)
 
-## Table of Contents
-
-- [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
-- [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
-- [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
-- [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
-- [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
-- [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
-- [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
-- [Project 8: Operational Analytics Study](https://github.com/tushar2704/Operational-Analytics-Study)
-- [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
-- [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
-- [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
-- [Project 12: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
 ---
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
 ---
-## [Project 1: Sales Dashboard(https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+## [Project 1: Sales Dashboard](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
 
-In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
+Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
 
 ## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
@@ -55,48 +41,30 @@ Superstore Sales with Streamlit is a data visualization and analysis project tha
 
 
 
-## [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
+## [Project 3: Human Resource Dashboard](https://www.novypro.com/project/human-resource-dashboard-2)
 
-The objective of this project is to build a sales forecasting model that predicts future sales for each Rossmann store. By leveraging historical sales data, store-specific information, and external factors like holidays, the model aims to provide reliable sales predictions for upcoming periods. This will help Rossmann allocate resources efficiently, optimize store operations, and maintain customer satisfaction by ensuring the availability of products.
+### Preview
 
-## [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
+![sales1](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/7e940ecb-577d-4804-b016-a95e1f06d8bd)
 
-his project aims to analyze the historical trends of Netflix stock prices using Python and data analysis techniques. By examining the stock price data, we can gain insights into price fluctuations, patterns, and potential trends, which can be valuable for investors and financial analysis.
+## [Project 4: Consumables Sales Dashboard(2019-2021)](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
 
-## [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
+### Preview
 
-This project revolves around the exploration and analysis of user engagement patterns on the popular social media platform, Instagram. By delving into user data and interaction metrics, this project aims to provide valuable insights into user behavior, content performance, and trends.
 
-## [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
+
+## [Project 5: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
 
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
 ##### Preview
 ![pizza4](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/64e1be51-11d3-4579-b2ae-9f12d7624fa1)
 
-## [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
+## [Project 6: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
 
 Exploring a treasure trove of insights and captivating visualizations drawn from a vast HR dataset covering 2000 to 2020, featuring over 22,000 records. Painstakingly curated and analyzed using PostgreSQL, this powerful dashboard showcases its findings through the elegance of Power BI. Unravel the secrets of the organization's workforce with answers to vital HR inquiries. Discover the gender and race/ethnicity breakdown, age distribution, headquarters vs. remote locations, average employment length for terminated employees, gender distribution across departments and job titles, job title distribution, highest turnover department, state-wise employee distribution, and changes in employee count over time based on hire and termination dates. Experience a profound understanding of employee tenures across departments. Employee-Distribution delivers valuable HR insights at your fingertips.
-![](https://github.com/tushar2704/Data-Analytics-Portfolio/blob/main/src/images/7.png)
 
-## [Project 8: Operational Analytics Study](https://github.com/tushar2704/Operational-Analytics-Study)
+![1](https://github.com/tushar2704/Data-Analytics-Portfolio/blob/main/src/images/7.png)
 
-The project will cover a wide range of areas, including user engagement, sales performance, marketing effectiveness, and more. You'll be provided with access to datasets containing user information, events data, and email engagement details.
-
-## [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
-
-This project predicts the sales demand for various items in different stores based on historical sales data. The objective is to develop a machine learning model that can provide accurate forecasts for future sales of each store-item combination. 
-
-## [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
-
-E-commerce companies are relentlessly working to augment user experiences and bolster sales by offering tailor-made product recommendations. The "E-commerce Product Recommendation" project endeavors to create a recommendation system that suggests products to users based on their historical interactions and preferences.
-
-## [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
-
-In this project, I am analyzing hiring process data to gain insights from about records of previous hires within a multinational company. By analyzing this data, I am aiming to uncover valuable trends and information about the company's hiring process, which can contribute to making informed decisions and improvements for the future. 
-
-## [Project 12: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
-
-The focus of this project is to delve into the realm of international debt analysis and understand its dynamics in a specific context. By narrowing down the scope, I aim to provide in-depth insights that resonate with the complexities and challenges faced by the selected region/country.
 
 
 
@@ -120,7 +88,4 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 ## License
 Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
 
-![3dash](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/a436023a-d094-47f0-931f-c810cbf4b1a3)
-
-![pizza4](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/780461fd-a9af-47c0-b2aa-b77d696820a9)
 
