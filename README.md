@@ -45,11 +45,13 @@ Superstore Sales with Streamlit is a data visualization and analysis project tha
 
 ### Preview
 
-![sales1](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/7e940ecb-577d-4804-b016-a95e1f06d8bd)
+![sales1](https://github.com/tushar2704/tushar2704-GIFs/assets/66141195/90ce1d58-66a4-4957-b58c-bd12911afdc0)
 
-## [Project 4: Consumables Sales Dashboard(2019-2021)](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
+
+## [Project 4: Sales Target Dashboard)](https://www.novypro.com/project/sales-target-dashboard)
 
 ### Preview
+![sales target](https://github.com/tushar2704/tushar2704-GIFs/assets/66141195/3e00f77b-8a4d-4f1d-8f84-741de44ec33c)
 
 
 
@@ -63,7 +65,7 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 
 Exploring a treasure trove of insights and captivating visualizations drawn from a vast HR dataset covering 2000 to 2020, featuring over 22,000 records. Painstakingly curated and analyzed using PostgreSQL, this powerful dashboard showcases its findings through the elegance of Power BI. Unravel the secrets of the organization's workforce with answers to vital HR inquiries. Discover the gender and race/ethnicity breakdown, age distribution, headquarters vs. remote locations, average employment length for terminated employees, gender distribution across departments and job titles, job title distribution, highest turnover department, state-wise employee distribution, and changes in employee count over time based on hire and termination dates. Experience a profound understanding of employee tenures across departments. Employee-Distribution delivers valuable HR insights at your fingertips.
 
-![1](https://github.com/tushar2704/Data-Analytics-Portfolio/blob/main/src/images/7.png)
+![1](https://github.com/tushar2704/tushar2704-GIFs/assets/66141195/59e59305-5ab2-44bf-998d-6db6faf30c23)
 
 
 
