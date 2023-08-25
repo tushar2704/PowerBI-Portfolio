@@ -26,17 +26,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 
 ## Projects
 
-In this repository, you will find a variety of Power BI projects, including:
 
-1. **Sales Dashboard**: An interactive dashboard displaying sales performance, key metrics, and trends across different regions and product categories.
-
-2. **Financial Analysis**: A comprehensive financial analysis dashboard that provides insights into revenue, expenses, profitability, and financial ratios for a company.
-
-3. **Marketing Campaign Analysis**: A visual analysis of marketing campaign performance, including campaign reach, conversion rates, and return on investment (ROI).
-
-4. **Supply Chain Optimization**: A dashboard that visualizes supply chain data, tracks inventory levels, and identifies bottlenecks and opportunities for optimization.
-
-## Repository Structure
 
 The repository is organized as follows:
 
