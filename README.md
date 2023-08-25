@@ -66,3 +66,9 @@ To explore my Power BI portfolio, follow these steps:
 - <b>[Kaggle](https://www.kaggle.com/tusharaggarwal27)</b> 
 
 Thank you for visiting my Power BI portfolio repository. I hope you find my projects informative and visually engaging. Enjoy exploring the power of data visualization with Power BI!
+
+![3dash](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/a436023a-d094-47f0-931f-c810cbf4b1a3)
+
+![pizza4](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/780461fd-a9af-47c0-b2aa-b77d696820a9)
+
+![sales1](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/7e940ecb-577d-4804-b016-a95e1f06d8bd)
