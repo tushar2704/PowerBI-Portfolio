@@ -41,7 +41,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 ---
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
 ---
-## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+## [Project 1: Sales Dashboard(https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 
 In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
 
@@ -118,10 +118,9 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
 
 ## License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro]() profile. Thank you
+Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
 
 ![3dash](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/a436023a-d094-47f0-931f-c810cbf4b1a3)
 
 ![pizza4](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/780461fd-a9af-47c0-b2aa-b77d696820a9)
 
-![sales1](https://github.com/tushar2704/PowerBI-Portfolio/assets/66141195/7e940ecb-577d-4804-b016-a95e1f06d8bd)
