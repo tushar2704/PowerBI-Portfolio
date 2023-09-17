@@ -70,7 +70,7 @@ Exploring a treasure trove of insights and captivating visualizations drawn from
 
 ![1](https://github.com/tushar2704/tushar2704-GIFs/assets/66141195/59e59305-5ab2-44bf-998d-6db6faf30c23)
 
-
+## [Project 7: Financial Analysis Dashboard](https://www.novypro.com/project/financial-analysis-dashboard-6)
 
 
 
